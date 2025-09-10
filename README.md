@@ -2,7 +2,7 @@
 # Description:
 
 #Group Name:
-*
-*
-*
-# Deadline:
+* Jerome Grayda
+* Ryan Jay Blaya
+* Pia Guardian
+# Deadline: September 9, 2025
