@@ -5,4 +5,4 @@
 * Jerome Grayda
 * Ryan Jay Blaya
 * Pia Guardian
-# Deadline: September 9, 2025
+# Deadline: September 8, 2025
